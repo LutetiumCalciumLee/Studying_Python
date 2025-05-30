@@ -15,6 +15,7 @@ Here, you’ll find code snippets, algorithm challenges, and small applications 
 
     Creative Freedom: Python empowers me to turn ideas into reality with just a few lines of code.
 
+
 📚 What You’ll Find Here
 
     Basic syntax and programming fundamentals
@@ -24,6 +25,7 @@ Here, you’ll find code snippets, algorithm challenges, and small applications 
     Small projects and experiments
 
     Notes and reflections on what I’ve learned
+
 
 🌱 Always Learning
 
