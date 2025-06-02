@@ -1,4 +1,4 @@
-🐍 Python Practice Repository
+##🐍 Python Practice Repository
 
 Welcome to my Python practice repository!
 Python was the very first programming language I learned, and it remains my favorite to this day.
@@ -16,7 +16,7 @@ Here, you’ll find code snippets, algorithm challenges, and small applications 
     Creative Freedom: Python empowers me to turn ideas into reality with just a few lines of code.
 
 
-📚 What You’ll Find Here
+##📚 What You’ll Find Here
 
     Basic syntax and programming fundamentals
 
@@ -27,7 +27,7 @@ Here, you’ll find code snippets, algorithm challenges, and small applications 
     Notes and reflections on what I’ve learned
 
 
-🌱 Always Learning
+##🌱 Always Learning
 
 I’m constantly updating this repository as I learn new concepts and tackle new challenges.
 Feel free to browse through my code and follow along with my growth as a Python developer!
