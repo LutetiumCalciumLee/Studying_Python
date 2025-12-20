@@ -44,7 +44,7 @@ Predefined reserved words in Python:
 - Used to describe functions, classes, modules.  
 - Accessed via `__doc__`.
 
----
+
 
 ## 5. Variables, Constants, and Literals
 
@@ -61,7 +61,7 @@ Predefined reserved words in Python:
 - Special: `None`, `True`, `False`  
 - Collections: list, tuple, dictionary, set
 
----
+
 
 ## 6. Python Data Types
 
@@ -76,14 +76,14 @@ Predefined reserved words in Python:
 
 Everything is an object; data types are classes, variables are instances.
 
----
+
 
 ## 7. Type Conversion and Casting
 
 - **Implicit**: Automatically handled by the interpreter.  
 - **Explicit**: Use `int()`, `float()`, `str()`, etc.
 
----
+
 
 ## 8. Input, Output, and Import
 
@@ -91,7 +91,7 @@ Everything is an object; data types are classes, variables are instances.
 - Input: `input()`  
 - Importing: `import`, `from ... import ...`, or use `as` for alias.
 
----
+
 
 ## 9. Python Operators
 
@@ -104,7 +104,7 @@ Everything is an object; data types are classes, variables are instances.
 | Membership  | in, not in               | Check if element in sequence   |
 | Identity    | is, is not               | Compare object identity        |
 
----
+
 
 ## 10. Control Flow
 
@@ -112,7 +112,7 @@ Everything is an object; data types are classes, variables are instances.
 - Loops: `for`, `while`, `break`, `continue`, `pass`  
 - `range()`: generates a sequence of numbers.
 
----
+
 
 ## 11. Functions
 
@@ -122,14 +122,14 @@ Everything is an object; data types are classes, variables are instances.
 - Recursive and lambda functions supported.  
 - Variable scope: global, local, nonlocal.
 
----
+
 
 ## 12. Modules and Packages
 
 - **Module**: A `.py` file containing functions, classes, variables.  
 - **Package**: A folder containing multiple modules (`__init__.py`).
 
----
+
 
 ## 13. File Input/Output
 
@@ -137,7 +137,7 @@ Everything is an object; data types are classes, variables are instances.
 - Read/write: `read()`, `write()`, `readline()`, `readlines()`  
 - Use `with` for automatic closing.
 
----
+
 
 ## 14. Exception Handling
 
@@ -145,7 +145,7 @@ Everything is an object; data types are classes, variables are instances.
 - Syntax: `try`, `except`, `else`, `finally`, `raise`.  
 - Custom exception classes possible.
 
----
+
 
 ## 15. Object-Oriented Programming (OOP)
 
@@ -202,7 +202,7 @@ Everything is an object; data types are classes, variables are instances.
 - 함수, 클래스, 모듈의 설명용 문자열  
 - `__doc__` 속성으로 접근 가능
 
----
+
 
 ## 5. 변수, 상수, 리터럴
 
@@ -219,7 +219,7 @@ Everything is an object; data types are classes, variables are instances.
 - **특별 리터럴**: `None`, `True`, `False`  
 - **집합 리터럴**: list, tuple, dictionary, set
 
----
+
 
 ## 6. 파이썬 자료형
 
@@ -234,14 +234,14 @@ Everything is an object; data types are classes, variables are instances.
 
 모든 것은 객체이며, 자료형은 클래스, 변수는 인스턴스입니다.
 
----
+
 
 ## 7. 형 변환
 
 - **묵시적 변환**: 인터프리터가 자동 변환  
 - **명시적 변환**: `int()`, `float()`, `str()` 등 함수 사용
 
----
+
 
 ## 8. 입출력과 모듈 불러오기
 
@@ -249,7 +249,7 @@ Everything is an object; data types are classes, variables are instances.
 - 입력: `input()`  
 - 모듈: `import`, `from ... import ...`, `as`로 별칭 사용 가능
 
----
+
 
 ## 9. 연산자
 
@@ -262,7 +262,7 @@ Everything is an object; data types are classes, variables are instances.
 | 멤버 연산자 | in, not in | 시퀀스 포함 여부 확인 |
 | 식별 연산자 | is, is not | 객체 동일성 비교 |
 
----
+
 
 ## 10. 제어문
 
@@ -270,7 +270,7 @@ Everything is an object; data types are classes, variables are instances.
 - 반복문: `for`, `while`, `break`, `continue`, `pass`  
 - `range()`: 숫자 시퀀스 생성
 
----
+
 
 ## 11. 함수
 
@@ -280,14 +280,14 @@ Everything is an object; data types are classes, variables are instances.
 - 재귀, 람다 함수(`lambda`) 가능  
 - 변수 범위: 전역, 지역, 비지역(nonlocal)
 
----
+
 
 ## 12. 모듈과 패키지
 
 - **모듈**: 함수, 클래스, 변수 등이 들어있는 `.py` 파일  
 - **패키지**: 여러 모듈을 포함한 폴더 (`__init__.py` 포함)
 
----
+
 
 ## 13. 파일 입출력
 
@@ -295,7 +295,7 @@ Everything is an object; data types are classes, variables are instances.
 - 읽기/쓰기: `read()`, `write()`, `readline()`, `readlines()`  
 - `with`문 사용 시 자동으로 닫힘
 
----
+
 
 ## 14. 예외 처리
 
@@ -303,7 +303,7 @@ Everything is an object; data types are classes, variables are instances.
 - 구문: `try`, `except`, `else`, `finally`, `raise`  
 - 사용자 정의 예외 클래스 가능
 
----
+
 
 ## 15. 객체 지향 프로그래밍 (OOP)
 
