@@ -1,6 +1,9 @@
 <details>
 <summary>ENG (English Version)</summary>
 
+# Python
+This repository contains my notes and code from studying Python during the High-Tech Program in the Department of AI Software.
+
 ## 1. Programs and Programming Languages
 
 - **Program**: A collection of sequential instructions written to be executed by a computer.  
@@ -154,10 +157,14 @@ Everything is an object; data types are classes, variables are instances.
 - Uses attributes (variables) and methods (functions).  
 - Key principles: inheritance, polymorphism, encapsulation, overloading/overriding.
 
+
 </details>
 
 <details>
 <summary>KOR (한국어 버전)</summary>
+
+# 파이썬
+이 레포지토리에는 인공지능소프트웨어과 하이테크 과정에서 학습한 파이 내용과 코드를 정리하여 업로드했습니다.
 
 ## 1. 프로그램과 프로그래밍 언어
 
