@@ -4,7 +4,8 @@
 # Python
 This repository contains my notes and code from studying Python during the High-Tech Program in the Department of AI Software.
 
-## main content
+  <details>
+<summary> <h2>Main Content</h2> </summary>
 
 ### 1. Programs and Programming Languages
 
@@ -148,7 +149,7 @@ Everything is an object; data types are classes, variables are instances.
 - Uses attributes (variables) and methods (functions).  
 - Key principles: inheritance, polymorphism, encapsulation, overloading/overriding.
 
----
+  </details>
 
 ## Python syntax practice
 
@@ -164,7 +165,9 @@ Everything is an object; data types are classes, variables are instances.
 # 파이썬
 이 레포지토리에는 인공지능소프트웨어과 하이테크 과정에서 학습한 파이 내용과 코드를 정리하여 업로드했습니다.
 
-## 주요 내용
+<details>
+
+<summary><h2>주요 내용</h2></summary>
 
 ### 1. 프로그램과 프로그래밍 언어
 
@@ -312,7 +315,8 @@ Everything is an object; data types are classes, variables are instances.
 - 속성(변수)과 메서드(함수) 사용  
 - 상속, 다형성, 캡슐화, 오버로딩/오버라이딩 지원
 
----
+</details>
+
 
 ## 파이썬 문법 연습
 - [Wikidocs 초보자를 위한 파이썬 300제](https://github.com/LutetiumCalciumLee/Studying_Python/tree/Wikidocs_Python300ForBeginers)
