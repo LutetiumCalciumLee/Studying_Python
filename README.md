@@ -150,12 +150,13 @@ Everything is an object; data types are classes, variables are instances.
 - Key principles: inheritance, polymorphism, encapsulation, overloading/overriding.
 
   </details>
-
-## Python syntax practice
+  <details>
+<summary> <h2>Python syntax practice</h2> </summary>
 
 - [Wikidocs Python 300 for biginners](https://github.com/LutetiumCalciumLee/Studying_Python/tree/Wikidocs_Python300ForBeginers)
 - [Programmers coding test practice](https://github.com/LutetiumCalciumLee/Studying_Python/tree/Programmers_Practice)
 
+  </details>
 
 </details>
 
@@ -315,11 +316,12 @@ Everything is an object; data types are classes, variables are instances.
 - 속성(변수)과 메서드(함수) 사용  
 - 상속, 다형성, 캡슐화, 오버로딩/오버라이딩 지원
 
-</details>
+  </details>
+  <details>
+<summary> <h2>파이썬 문법 연습</h2> </summary>  
 
-
-## 파이썬 문법 연습
 - [Wikidocs 초보자를 위한 파이썬 300제](https://github.com/LutetiumCalciumLee/Studying_Python/tree/Wikidocs_Python300ForBeginers)
 - [Programmers 코딩테스트 연습](https://github.com/LutetiumCalciumLee/Studying_Python/tree/Programmers_Practice)
+  </details>
 
 </details>
